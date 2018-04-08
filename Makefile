@@ -5,6 +5,8 @@
 PKGNAME=		libhighlight-${VERSION}
 COMMENT+=		 (shared library)
 
+CONFLICTS+=		highlight<3.18nb1
+
 USE_LIBTOOL=		yes
 
 BUILD_TARGET=		lib-shared
