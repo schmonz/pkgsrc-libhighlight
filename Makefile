@@ -18,7 +18,5 @@ INSTALLATION_DIRS=	lib
 post-install:
 	${LIBTOOL} --mode=install ${INSTALL_LIB} ${WRKSRC}/src/libhighlight.la \
 		${DESTDIR}${PREFIX}/lib/
-	# XXX highlight.h???
-	# XXX do not pass lua CFLAGS to build, they're for the CLI I guess?
 
 .include "../../mk/bsd.pkg.mk"
