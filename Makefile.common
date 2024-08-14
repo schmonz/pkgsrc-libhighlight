@@ -4,7 +4,7 @@
 # used by textproc/p5-highlight/Makefile
 
 DISTNAME=		highlight-${VERSION}
-VERSION=		4.12
+VERSION=		4.13
 CATEGORIES=		textproc
 MASTER_SITES=		http://www.andre-simon.de/zip/
 EXTRACT_SUFX=		.tar.bz2
