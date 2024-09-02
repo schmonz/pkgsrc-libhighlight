@@ -1,4 +1,4 @@
-$NetBSD: patch-src_core_platform__fs.cpp,v 1.4 2020/12/18 18:45:08 schmonz Exp $
+$NetBSD: patch-src_core_platform__fs.cpp,v 1.5 2024/08/16 15:27:59 schmonz Exp $
 
 Fix build on (at least) SmartOS.
 

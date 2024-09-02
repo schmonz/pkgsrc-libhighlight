@@ -1,4 +1,4 @@
-$NetBSD: patch-src_makefile,v 1.13 2024/03/18 18:56:40 schmonz Exp $
+$NetBSD: patch-src_makefile,v 1.14 2024/08/16 15:28:00 schmonz Exp $
 
 Use pkgsrc-specified compiler and flags.
 

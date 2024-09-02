@@ -1,4 +1,4 @@
-@comment $NetBSD$
+@comment $NetBSD: PLIST,v 1.27 2024/08/16 15:27:59 schmonz Exp $
 lib/libhighlight.la
 share/bash-completion/completions/highlight
 share/doc/highlight/AUTHORS
